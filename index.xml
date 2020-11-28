@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Bankes</title>
+    <link>https://benbankes.com/</link>
+    <description>Recent content on Ben Bankes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Nov 2020 05:13:59 -0700</lastBuildDate><atom:link href="https://benbankes.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://benbankes.com/about/</link>
+      <pubDate>Sat, 28 Nov 2020 07:36:38 -0700</pubDate>
+      
+      <guid>https://benbankes.com/about/</guid>
+      <description>I am the tech lead for Playground Sessions
+Passions  I love my wife I love my children I love home construction I love words fitly spoken I love triumphant music I love creating I love reading I love real-time communication  A Brief Timeline of my Early Technical History 2002 – At Purdue University, I am introduced to coding with MATLAB. I write code to overlay lines on a microscopic image of aluminum crystals to calculate the average grain index.</description>
+    </item>
+    
+    <item>
+      <title>A New Business Idea</title>
+      <link>https://benbankes.com/posts/new-business-idea/</link>
+      <pubDate>Sat, 28 Nov 2020 05:13:59 -0700</pubDate>
+      
+      <guid>https://benbankes.com/posts/new-business-idea/</guid>
+      <description>Three people have asked me if I knew any apps with a periodic checklist.
+Each of these people is good at finding apps which meet their needs. However, they were unable to find one which solves this problem.
+This problem may be ripe for a solution. I want to take it on. It seems small enough.
+I will evaluate some new technologies, and document my progress.
+ Flutter Go or Rust or PHP with the Doctrine ORM Hasura or Swagger WebRTC or WebSockets  </description>
+    </item>
+    
+  </channel>
+</rss>
